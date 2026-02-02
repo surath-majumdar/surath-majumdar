@@ -1,16 +1,19 @@
+# Surath Majumdar
 ## Senior Solution Architect | Cloud & Data Automation Specialist
 
-<!--
-**surath-majumdar/surath-majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategic and outcome-driven engineering leader with proven expertise in architecting scalable, resilient, and secure enterprise platforms. Specialized in Kafka ecosystem (Confluent Platform & Cloud), distributed systems, and cloud-native architectures across AWS, GCP. Proven success in designing real-time data pipelines, leading cloud migrations, and integrating DevOps automation for operational excellence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+* **Enterprise Governance:** Building automated policy enforcement for Confluent Cloud using Terraform.
+* **Platform Engineering:** Designing "Golden Paths" for microservices and data streaming.
+
+### 🛠️ Technical Portfolio
+* **Data Streaming:** Confluent Cloud, Apache Kafka, ksqlDB.
+* **Infrastructure as Code:** Terraform, Ansible, Terragrunt.
+* **Cloud:** AWS, GCP.
+* **DevOps:** Harness, GitHub Actions, Jenkins.
+
+### 📫 Connect with me
+* [LinkedIn](YOUR_LINKEDIN_URL_HERE)
